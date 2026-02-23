@@ -390,7 +390,7 @@ npm run preview
 - `@types/node`
 
 ## Git Workflow
-This project is configured for deployment to GitHub Pages at `Nightmare99.github.io`.
+This project is configured for deployment to GitHub Pages at `shyam2520.github.io`.
 
 ## Notes for AI Agents
 
@@ -414,10 +414,10 @@ This project is configured for deployment to GitHub Pages at `Nightmare99.github
 8. **Testing**: Add unit tests (Vitest) and E2E tests (Playwright)
 
 ## Contact & Maintenance
-- GitHub: [nightmare99](https://github.com/shyam2520)
+- GitHub: [shyam2520](https://github.com/shyam2520)
 - Email: shyam.mylai@gmail.com
 - LinkedIn: [mnq-](https://www.linkedin.com/in/shyam-mylai)
 
 ---
-**Last Updated**: October 2025  
+**Last Updated**: Feb 2026  
 **Version**: 1.0.0

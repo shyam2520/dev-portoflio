@@ -178,7 +178,7 @@ export function Contact() {
         transition={{ duration: 0.8 }}
         className="text-center mt-16 text-gray-500 text-sm"
       >
-        <p>© 2025</p>
+        <p>© 2026</p>
       </motion.footer>
     </section>
   )
