@@ -52,7 +52,7 @@ export function Hero() {
               WebkitTextStroke: '0.5px rgba(0, 0, 0, 0.3)'
             }}
           >
-            Shyam Mylai
+            Shyam Sundar Mylai
           </motion.h1>
 
           <motion.p
@@ -62,7 +62,7 @@ export function Hero() {
             className="text-xl md:text-2xl text-gray-300 mb-4"
             style={{ textShadow: '0 2px 10px rgba(0, 0, 0, 0.8), 0 0 20px rgba(0, 0, 0, 0.6)' }}
           >
-            Full Stack Engineer | AI-Powered Web Apps
+            Full Stack Engineer | DevOps | MLOps
           </motion.p>
 
           <motion.p
