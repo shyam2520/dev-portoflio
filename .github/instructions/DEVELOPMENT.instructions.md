@@ -416,7 +416,7 @@ This project is configured for deployment to GitHub Pages at `shyam2520.github.i
 ## Contact & Maintenance
 - GitHub: [shyam2520](https://github.com/shyam2520)
 - Email: shyam.mylai@gmail.com
-- LinkedIn: [mnq-](https://www.linkedin.com/in/shyam-mylai)
+- LinkedIn: [shyam-mylai](https://www.linkedin.com/in/shyam-mylai)
 
 ---
 **Last Updated**: Feb 2026  
