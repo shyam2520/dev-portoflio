@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import { Github, Linkedin, Mail, Code2, FileText } from "lucide-react"
+import { Github, Linkedin, Mail, Code2, Code, FileText } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { SoapBubble, SoapBubbleHandle } from "@/components/ui/soap-bubble"
 import { useRef } from "react"
@@ -126,6 +126,14 @@ export function Hero() {
               className="hover:text-pink-600 transition-colors"
             >
               <FileText className="h-6 w-6" />
+            </a>
+          <a
+              href="https://leetcode.com/u/lowspecgamer/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-pink-600 transition-colors"
+            >
+              <Code className="h-6 w-6" />
             </a>
           </motion.div>
         </motion.div>
